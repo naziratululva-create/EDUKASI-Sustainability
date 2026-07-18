@@ -1,0 +1,6 @@
+{
+  "name": "Zero Waste & Sustainability Hub",
+  "description": "An interactive full-stack educational landing page campaigning for a zero-waste lifestyle with AI-powered alternatives and carbon footprint audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
